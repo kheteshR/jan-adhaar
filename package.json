@@ -13,14 +13,10 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-<<<<<<< HEAD
-    "morgan": "~1.9.1",
-=======
     "log4js": "^5.1.0",
     "morgan": "~1.9.1",
     "multichain-node": "^2.2.0-version1.0.4",
     "oracledb": "^2.3.0",
->>>>>>> fd467777d13a867b08376c869cc2a5a0bb03b3e9
     "request": "^2.88.0"
   }
 }
