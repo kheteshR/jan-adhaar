@@ -1,0 +1,13 @@
+{
+"multichainConfig":{
+    "port": "4770",
+    "host": "127.0.0.1",
+    "user": "multichainrpc",
+    "pass": "73avsa2ZwNoFxtJyhUZYZukmBTDX1iygJxR1UttPJ8Lz" 
+},
+"OraConfig": {
+    "user": "BDHBLOCKCHAIN",
+    "password": "blockchain123#",
+    "connectString": "exa03-scan.rajasthan.gov.in:1521/BLOCKCHAINSTAGE"
+}
+}
